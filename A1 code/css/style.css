@@ -1,0 +1,45 @@
+html{
+    width: 1200px;
+    background-color: dark grey;
+    width: 1120px; 
+    margin: 20px auto; 
+    padding: 20px; 
+    border-radius: 10px; 
+}
+header{
+    text-align: center;
+}
+body{
+    width: 1120px; 
+    padding: 20px;    
+}
+main{
+    width:600px;
+    float: left;
+    border: 2px solid black; 
+    border-radius: 10px; 
+    padding: 10px;
+	background-color: teal;
+}
+aside{
+    height: 245px;
+	width: 450px;
+    border: 2px solid black; 
+    border-radius: 10px; 
+    padding: 10px;
+	background-color: teal;
+	float: right;
+    
+}
+main .grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.grid div{
+   border: 1px solid rgb(229, 145, 173);
+   border-radius: 3px;
+   font-family: sans-serif;
+   font-weight: bold;
+}
+
+	
