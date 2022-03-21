@@ -5,7 +5,7 @@
 <br>
 
 # What I Do
-<p> I am well versed in Html,CSS,Java and using Paket Tracer.</p>
+<p> I am well versed in Html,CSS,Java,FlowCharts and using Paket Tracer.</p>
 <p> I am ok at C#,sequel and Python.</P>
 <p> All projects put on here are for my school.</p>
 <br>
