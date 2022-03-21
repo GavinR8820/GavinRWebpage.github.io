@@ -9,9 +9,9 @@
 <br>
 
 # Projects
-<p><a href="A1.pkt" download>Click to Download</a></p>
-<p><a href="A1 code." download>Click to Download</a></p>
-<p><a href="Assignment 1.dccdb" download>Click to Download</a></p>
+<p><a href="A1.pkt" download>Server Networking</a></p>
+<p><a href="A1 code." download>Java Buttons</a></p>
+<p><a href="Assignment 1.dccdb" download>Database with a query</a></p>
 
 <br>
 # Contact info
