@@ -6,5 +6,8 @@
 # What I Do
 <p> I create Programs for college and dable in them in my own freetime as well as hope to put the knowledge gained into a job</p>
 <br>
+# Projects
+[a relative link](other_file.md)
+<br>
 # Contact info
 <p>If there are any questions email me at grintoul8820@conestogac.on.ca
