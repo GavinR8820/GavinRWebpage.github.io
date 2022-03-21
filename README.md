@@ -1,2 +1,4 @@
-# Hey! Welcome to my Page
-This is wear I'll be putting some projects
+# About The Creator
+Name: Gavin
+Age: 18
+Likes: Video Games and Web Design
