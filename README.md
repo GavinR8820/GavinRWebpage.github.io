@@ -11,7 +11,7 @@
 # Projects
 <p><a href="A1.pkt" download>Server Networking</a></p>
 <p><a href="index.html" download>Java Buttons</a></p>
-<p><a href="Assignment 1 DB GR.dccdb" download>Database with a query</a></p>
+<p><a href="Assignment 1 DB GR.accdb" download>Database with a query</a></p>
 
 <br>
 # Contact info
