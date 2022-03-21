@@ -5,7 +5,9 @@
 <br>
 
 # What I Do
-<p> I create Programs for college and dable in them in my own freetime as well as hope to put the knowledge gained into a job</p>
+<p> I am well versed in Html,CSS and Java.</p>
+<p> I can get around in C#,sequel and Python</P>
+<p> All projects put on here are for my school</p>
 <br>
 
 # Projects
